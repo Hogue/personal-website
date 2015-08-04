@@ -120,6 +120,9 @@ SECTIONS — INTRO
   height: auto;
 }
 
+.pug-pug {
+  display: none;
+}
 #pug {
   display: inline-block;
 }
