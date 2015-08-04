@@ -1,0 +1,47 @@
+@media screen and (min-width: 906px) {
+
+  /**********************************
+  HEADER
+  ***********************************/
+
+  nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+    width: 45%;
+  }
+
+  nav a {
+    color: rgba(127, 140, 141, 1.0);
+  }
+
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+
+  h1 {
+    font-size: 2.5em;
+  }
+
+  h2 {
+    font-size: 0.825em;
+    margin-bottom: 20px;
+  }
+
+  header {
+    margin-bottom: 60px;
+  }
+
+/**********************************
+SECTIONS — INTRO
+***********************************/
+
+
+
+}
+
